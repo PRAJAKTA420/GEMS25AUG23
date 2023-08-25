@@ -1,5 +1,6 @@
-This is first commit
-Change2 – commit with message as “Change2 in File1”
-function bug123(){
-//do something 
-}
+making another change
+This - is demo file
+todays date is 25 aug
+today's session is 10-5pm;
+ New features are implemented as per client requiremnet
+working on wt4 implementation
