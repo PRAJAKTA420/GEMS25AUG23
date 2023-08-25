@@ -1,2 +1,5 @@
 This is first commit
 Change2 – commit with message as “Change2 in File1”
+function bug123(){
+//do something 
+}
