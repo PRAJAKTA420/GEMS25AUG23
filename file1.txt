@@ -1,4 +1,1 @@
-making another change
-This is demo file
-todays date is 25 aug
-today's session is 10-5pm;
+This is first commit
